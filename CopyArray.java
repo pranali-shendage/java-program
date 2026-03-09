@@ -9,8 +9,9 @@ int []copy=new int[arr.length];
 System.out.print("copy []:");
 for(int i=0;i<arr.length;i++)
 {
-  //copy[i]=arr[i];
-  System.out.print(" "+copy[i]);
+  copy[i]=arr[i];  //copy element  arr[i] into copy[i].
+  
+   System.out.print(" "+copy[i]);
 }
 
 }
