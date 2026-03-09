@@ -1,3 +1,5 @@
+//write a java program to print allchracters in an array with its ASCII value.
+
 public class CharArray{
 public static void main(String []x){
 
